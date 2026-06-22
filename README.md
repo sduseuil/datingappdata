@@ -14,4 +14,4 @@ This repository consists of one branch shared between all collaborators:
     This dataset contains changes such as excluding certain participants, removing certain variables, and replacing full texts and image links with codes (e.g. "TEXT1")
 * Supplementary Rcode ([#Supplementary_Rstudio_Code.pdf](https://github.com/sduseuil/datingappdata/blob/main/Supplementary_Rstudio_Code.pdf))
     This pdf-file contains a detailed overview of the analysis performed in R.
-* Our paper ([#CaseStudies_Jef_Sarah_Lissa.pdf](https://github.com/sduseuil/datingappdata/blob/main/CaseStudies_Jef_Sarah_Lissa.pdf)) and docx version ([#CaseStudies_Jef_Sarah_Lissa.docx](https://github.com/sduseuil/datingappdata/blob/main/CaseStudies_Jef_Sarah_Lissa.docx)) 
+* Our paper ([#CaseStudies_Jef_Sarah_Lissa.pdf](https://github.com/sduseuil/datingappdata/blob/main/CaseStudies_Jef_Sarah_Lissa.pdf)).
