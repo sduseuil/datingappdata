@@ -1,0 +1,41 @@
+﻿Original study name: “Assortative mating for personality and online dating app preferences”
+
+
+Metadata (Ambigious Variable Meaning Key)
+- Gender[a]
+    - 1: Male
+    - 2: Female
+    - 3: Other
+- Sex:
+    - 1: Male
+    - 2: Female
+- SO: Sexual orientation[b]
+    - 1: Heterosexual
+    - 2: Homosexual
+    - 3: Bisexual
+- Dating_exp: Ervaring met dating apps
+    - 1: Yes
+    - 2: No
+- Status.1: Relatiestatus
+    - 1: Single
+    - 2: In a relationship
+    - 3: Other
+#### Big Five Inventory
+- BFI1_1 tot BFI1_44: Big Five Inventory items
+    - 1: Disagree strongly
+    - 5: Agree strongly
+    - Paper used standard BFI scoring sheet
+#### Dating profile match decisions 
+- X1_9 tot X100_Q9: match or do not match (pictures of women)
+    - 1: Yes
+    - 2: No
+- X1_Q13 tot X100_Q13: match or do not match (pictures of men)
+    - 1: Yes
+    - 2: No
+Images
+* 200 unique photos, 100 men & 100 women
+Text
+* 100 unique descriptions
+Desc_or_pic
+* ??? Never mentioned in the original study (1, 2, 3 encoding), meaning unknown
+
